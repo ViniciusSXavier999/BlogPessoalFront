@@ -1,0 +1,12 @@
+.fs-16 {
+    font-size: 16pt;
+}
+
+.bg-menu {
+    background: linear-gradient(rgb(0, 0, 255),azure);
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
