@@ -1,5 +1,5 @@
 .bg-menu {
-    background: linear-gradient(rgb(0, 0, 255),azure);
+    background-color: rgb(0, 0, 125);
 }
 
 ul.social-network {
@@ -32,7 +32,7 @@ ul.social-network li {
 }
 
 .rodape {
-    background-color: rgb(4, 4, 127);
+    background-color: rgb(24, 24, 24)
 }
 
 a {
